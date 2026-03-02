@@ -75,4 +75,4 @@ I am a passionate about software developer currently pursuing my degree at Nxtwa
 ⭐ “Building My Future One Commit at a Time.”
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/Rohitbhor07/Rohitbhor07/output/github-contribution-grid-snake.svg)
