@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring AI & Data Science Engineer | Future Tech Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rohitbhor07&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
 
 ---
