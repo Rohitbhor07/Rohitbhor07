@@ -12,11 +12,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 First Year Engineering Student (AI & Data Science)  
-- 💡 Currently learning DSA, Python & Java  
-- 🎯 Goal: Crack top tech internships by 2026  
-- 🏋️ Focused on self-growth, coding & discipline  
-- 📍 Pune, Maharashtra, India  
+I am a passionate about software developer currently pursuing my degree at Nxtwave Institute of Advanced Technology(NIAT). I enjoy to solving small but real-world problems through my projects and continuously improving my problem-solving skills. My focus is on building real-world projects in Python and developing scalable applications.
 
 ---
 
@@ -25,7 +21,6 @@
 - 📌 Strengthening Data Structures & Algorithms  
 - 📌 Building real-world projects in Python & Java  
 - 📌 Improving problem-solving skills daily  
-- 📌 Preparing for high-paying tech internships  
 
 ---
 
