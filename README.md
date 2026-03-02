@@ -72,8 +72,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (Add your email here)  
+- 💼 LinkedIn: www.linkedin.com/in/rohitbhor  
+- 📧 Email: rohittbhor07@gmail.com  
 
 ---
 
