@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rohit👋</h1>
-<h3 align="center">🚀 Aspiring AI & Data Science Engineer | Future Tech Builder</h3>
+<h3 align="center">🚀 Aspiring software Engineer | Future Tech Builder</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohitbhor07&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
