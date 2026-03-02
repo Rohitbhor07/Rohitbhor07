@@ -4,6 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohitbhor07&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;DSA+Enthusiast;Future+Tech+Entrepreneur;Building+in+Public+🚀" />
+</p>
 
 ---
 
@@ -75,3 +78,6 @@
 ---
 
 ⭐ “Building My Future One Commit at a Time.”
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
