@@ -2,9 +2,6 @@
 <h3 align="center">🚀 Aspiring software Engineer | Future Tech Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rohitbhor07&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Engineer;Future+Tech+Entrepreneur;Building+in+Public+🚀" />
 </p>
 
